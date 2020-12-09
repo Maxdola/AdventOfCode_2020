@@ -20,7 +20,9 @@ public class App {
         //new Day_04();
         //new Day_05();
         //new Day_06();
-        new Day_07();
+        //new Day_07();
+        //new Day_08();
+        new Day_09();
 
     }
 }
