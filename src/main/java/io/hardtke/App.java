@@ -23,7 +23,9 @@ public class App {
         //new Day_07();
         //new Day_08();
         //new Day_09();
-        new Day_10();
+        //new Day_10();
+        //new Day_11();
+        new Day_12();
 
     }
 }
