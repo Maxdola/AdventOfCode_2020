@@ -1,4 +1,4 @@
-package io.hardtke.utils;
+package io.hardtke.adventofcode.utils;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

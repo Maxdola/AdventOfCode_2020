@@ -1,9 +1,8 @@
-package io.hardtke.days;
+package io.hardtke.adventofcode.days;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.regex.Matcher;
 
 public class Day_04 extends Day {
 

@@ -1,7 +1,6 @@
-package io.hardtke.days;
+package io.hardtke.adventofcode.days;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 

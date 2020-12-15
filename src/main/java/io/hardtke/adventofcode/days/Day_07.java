@@ -1,10 +1,8 @@
-package io.hardtke.days;
+package io.hardtke.adventofcode.days;
 
-import com.google.gson.GsonBuilder;
-import io.hardtke.App;
+import io.hardtke.adventofcode.App;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicInteger;

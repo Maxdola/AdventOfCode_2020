@@ -1,11 +1,8 @@
-package io.hardtke.days;
+package io.hardtke.adventofcode.days;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.Collector;
 
 /**
  * Project   » advent_of_code

@@ -1,6 +1,6 @@
-package io.hardtke.days;
+package io.hardtke.adventofcode.days;
 
-import io.hardtke.utils.FileToLines;
+import io.hardtke.adventofcode.utils.FileToLines;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package io.hardtke;
+package io.hardtke.adventofcode;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import io.hardtke.days.*;
+import io.hardtke.adventofcode.days.*;
 
 /**
  * Hello world!
@@ -25,7 +25,10 @@ public class App {
         //new Day_09();
         //new Day_10();
         //new Day_11();
-        new Day_12();
+        //new Day_12();
+        //new Day_13();
+        new Day_14();
+        //new Day_15();
 
     }
 }

@@ -1,4 +1,4 @@
-package io.hardtke.days;
+package io.hardtke.adventofcode.days;
 
 import java.util.ArrayList;
 import java.util.List;
