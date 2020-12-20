@@ -14,6 +14,8 @@ public class App {
 
     public static void main(String[] args) {
 
+        long startTime = System.currentTimeMillis();
+
         //new Day_01();
         //new Day_02();
         //new Day_03();
@@ -27,8 +29,12 @@ public class App {
         //new Day_11();
         //new Day_12();
         //new Day_13();
-        new Day_14();
+        //new Day_14();
         //new Day_15();
+        //new Day_16();
+        new Day_17();
+
+        System.out.printf("Time: %dms", System.currentTimeMillis() - startTime);
 
     }
 }
