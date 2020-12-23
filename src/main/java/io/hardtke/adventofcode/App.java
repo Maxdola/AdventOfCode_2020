@@ -32,7 +32,8 @@ public class App {
         //new Day_14();
         //new Day_15();
         //new Day_16();
-        new Day_17();
+        //new Day_17();
+        new Day_18();
 
         System.out.printf("Time: %dms", System.currentTimeMillis() - startTime);
 
